@@ -32,7 +32,7 @@ changes before their full effects could be realised. AI is likely to face simila
 
 At the same time, slow adoption does not mean that AI will have little economic value. Research by Brynjolfsson, Li, and
 Raymond, for example, found that generative AI increased productivity among customer-support workers. This shows that AI
-can create real value without transforming every profession simultaneously.
+can create real value without transforming every profession simultaneously.[^1]
 
 The current AI hype therefore creates an interesting tension. Companies are investing heavily because they expect
 enormous future returns. But if adoption is slower than expected, or if AI applications fail to provide the promised
@@ -62,7 +62,7 @@ difficult part is often not producing an answer, but understanding **what the si
 
 ## Resources and Responsibility
 
-> The main limits of AI are social, contextual, and material—not simply computational.
+> The main limits of AI are social, contextual, and material, not simply computational.
 
 AI is also not an abstract intelligence floating in the cloud. It depends on researchers, data, computing power,
 electricity, data centres, hardware, infrastructure, and human labour. This makes AI development an environmental and
