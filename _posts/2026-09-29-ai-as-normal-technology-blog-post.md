@@ -8,24 +8,24 @@ tags: [ ai, technology ]
 
 # Future of AI: Superintelligence or Normal Technology?
 
-AI is often presented as a revolutionary technology that will either transform society completely or lead to
-catastrophic outcomes. Companies invest billions in AI, while headlines predict mass unemployment, superintelligence,
-and enormous economic change. However, Arvind Narayanan and Sayash Kapoor offer a different perspective in their article
-*AI as Normal Technology*: AI should be understood as a technology that develops within the same social, economic, and
-physical constraints as previous technologies.
+AI is often presented as a revolutionary technology that will either lead to superintelligence or catastrophic
+outcomes. Headlines talk about mass unemployment, machines surpassing humans, and companies investing billions in the
+expectation that AI will transform entire industries. But there is another, less dramatic way
+to view AI: as a normal technology.
 
-I broadly agree with their assessment. However, "normal technology" does not mean that AI is unimportant. AI may still
-develop very quickly and have significant economic and social effects. My main argument is that **AI capabilities will
-probably develop faster than society can integrate them**.
+In their article AI as Normal Technology, Arvind Narayanan and Sayash Kapoor argue that AI should be understood in the
+context of previous technologies. This does not mean that AI is unimportant or that it cannot become extremely powerful.
+Rather, it means that technological progress does not automatically translate into immediate social transformation.
 
 ## Innovation vs. Adoption
 
 > AI innovation will progress faster than AI diffusion.
 
-One of the most convincing arguments by Narayanan and Kapoor is the distinction between technological innovation and
+One of the most important arguments by Narayanan and Kapoor is the distinction between technological innovation and
 diffusion. AI models can improve rapidly, while their adoption in society can take much longer. A new model can be
 released within months, but integrating it into an organisation may require years of new infrastructure, training,
-regulation, workflow changes, and trust.
+regulation, workflow changes, and trust. Particularly in high-consequence areas, more capable models do not automatically lead to rapid
+deployment.
 
 This is not unique to AI. Previous technologies such as electricity and computers also required major organisational
 changes before their full effects could be realised. AI is likely to face similar limitations.
@@ -39,7 +39,7 @@ enormous future returns. But if adoption is slower than expected, or if AI appli
 value, these investments may become financially difficult to justify. **The hype can move faster than the technology's
 actual integration into society.**
 
-## Capabilities Are Not Applications
+## Capabilities measured by Benchmarks Are Not Applications
 
 > AI should be evaluated by its real-world consequences rather than by hype and benchmarks alone
 
@@ -59,6 +59,8 @@ judgment can matter more than the amount of information available.
 
 For this reason, I do not think that every limitation of AI can be solved simply by making models larger or faster. The
 difficult part is often not producing an answer, but understanding **what the situation actually requires**.
+
+> Some forms of knowledge and decision-making cannot simply be extracted from datasets.
 
 ## Resources and Responsibility
 
@@ -82,7 +84,7 @@ the real world, how can it gain the real-world experience necessary to demonstra
 ## AI in Five Years
 
 In five years, I expect AI to be much more integrated into existing software and workflows. AI assistants will likely
-become increasingly common in programming, office software, research, search, customer service, and administration.
+become increasingly common in programming, research, customer service, and automation.
 
 However, I do not expect every impressive AI capability to become a successful real-world application. Some systems will
 create substantial value, while others may prove too expensive, unreliable, resource-intensive, or difficult to

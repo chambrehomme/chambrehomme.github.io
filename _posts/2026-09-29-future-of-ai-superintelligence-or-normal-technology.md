@@ -44,8 +44,7 @@ way they worked.
 
 One of the most important arguments in Narayanan and Kapoor's article is the distinction between innovation and
 diffusion. AI methods can improve extremely quickly, while their actual adoption throughout society can remain
-relatively slow. Particularly in high-consequence areas, more capable models do not automatically lead to rapid
-deployment.
+relatively slow. 
 
 I find this distinction convincing because technological progress is often confused with technological adoption. A new
 AI model can be released within months, but integrating it into a company's workflows can take years. Organisations need
@@ -72,7 +71,7 @@ realised.
 
 The hype can move faster than the technology's actual integration into society.
 
-### Benchmarks and Real-World Applications
+## Capabilities measured by Benchmarks Are Not Applications
 
 This gap between hype and reality can also be seen in the distinction between AI methods and AI applications.
 
