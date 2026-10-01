@@ -4,7 +4,7 @@ title: "AI as Normal Technology Blog Post"
 date: 2026-09-29
 categories: [ ai ]
 tags: [ ai, technology ]
-------------------------
+---
 
 # Future of AI: Superintelligence or Normal Technology?
 
