@@ -1,2 +1,1 @@
-# chambrehomme.github.io
-Blogposts from chombrehomme
+Blogposts from chambrehomme
