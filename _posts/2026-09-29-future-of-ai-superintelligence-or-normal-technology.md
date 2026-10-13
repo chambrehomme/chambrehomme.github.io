@@ -6,8 +6,6 @@ categories: [ ai ]
 tags: [ ai, technology ]
 ---
 
-# Future of AI: Superintelligence or Normal Technology?
-
 AI is often presented as a revolutionary technology that will either lead to superintelligence or catastrophic
 outcomes. Headlines talk about mass unemployment, machines surpassing humans, and companies investing billions in the
 expectation that AI will transform entire industries. But there is another, less dramatic way
@@ -22,6 +20,8 @@ AI is exciting, but discussions about its future are often shaped by hype, econo
 predictions. Looking at AI as a normal technology allows us to ask more practical questions: How does AI actually become
 part of society? What resources does it require? Who benefits, who bears the risks, and who takes responsibility when
 things go wrong?
+
+![AI as Normal Technology](/assets/img/ai-as-a-normal-technology.jpeg)
 
 ## Definition of AI, AGI and Normal Technology
 
@@ -44,7 +44,7 @@ way they worked.
 
 One of the most important arguments in Narayanan and Kapoor's article is the distinction between innovation and
 diffusion. AI methods can improve extremely quickly, while their actual adoption throughout society can remain
-relatively slow. 
+relatively slow.
 
 I find this distinction convincing because technological progress is often confused with technological adoption. A new
 AI model can be released within months, but integrating it into a company's workflows can take years. Organisations need
@@ -57,7 +57,7 @@ At the same time, I do not think that slow diffusion means AI will have little e
 that AI can produce measurable benefits in specific settings. For example, Brynjolfsson, Li, and Raymond found that
 access to a generative-AI assistant increased productivity among customer-support workers, with particularly large gains
 among less experienced workers. Their results also showed substantial differences between groups of workers. This
-suggests that AI can create real value without automatically transforming every profession at the same time.[^1]
+suggests that AI can create real value without automatically transforming every profession at the same time. [^1]
 
 This is also where the current AI hype becomes interesting. AI companies have strong economic incentives to present
 their technology as revolutionary. Investors expect growth, companies compete for market share, and enormous amounts of
@@ -199,9 +199,9 @@ it fails? And who takes responsibility?
 Maybe the future of AI is not about machines suddenly becoming something completely different from technology as we know
 it. Maybe it is about something much more ordinary.
 
-[^1] E. Brynjolfsson, D. Li, and L. R. Raymond, "Generative AI at Work," The Quarterly Journal of Economics, vol. 140,
-no. 2, pp. 889–942, 2025.
+[^1]: E. Brynjolfsson, D. Li, and L. R. Raymond, "Generative AI at Work," The Quarterly Journal of Economics, vol. 140,
+    no. 2, pp. 889–942, 2025.
 
-[^2] UNRIC, "UN Scientists: AI Is Threatening Natural Resources for Billions," United Nations Regional Information
-Centre, Jun. 05, 2026. [Online].
-Available: https://unric.org/en/ais-environmental-costs-threaten-water-land-and-climate/. [Accessed: Sep. 29, 2026]
+[^2]: UNRIC, "UN Scientists: AI Is Threatening Natural Resources for Billions," United Nations Regional Information
+    Centre, Jun. 05, 2026. [Online].
+    Available: https://unric.org/en/ais-environmental-costs-threaten-water-land-and-climate/. [Accessed: Sep. 29, 2026]

@@ -4,9 +4,8 @@ title: "AI as Normal Technology Blog Post"
 date: 2026-09-29
 categories: [ ai ]
 tags: [ ai, technology ]
+archive: true
 ---
-
-# Future of AI: Superintelligence or Normal Technology?
 
 AI is often presented as a revolutionary technology that will either lead to superintelligence or catastrophic
 outcomes. Headlines talk about mass unemployment, machines surpassing humans, and companies investing billions in the
