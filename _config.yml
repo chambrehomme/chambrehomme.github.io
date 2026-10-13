@@ -1,3 +1,15 @@
-title: Tech Blog
-description: Tech Blogposts to different technologies, frameworks and hot topics
+title: "chambrehomme"
+author: "Nina Zimmermann"
+description: "AI, DevOps, and other tech stuff"
+
+url: "https://chambrehomme.github.io"
+baseurl: ""
+
+github_username: chambrehomme
+
 theme: minima
+markdown: kramdown
+permalink: /:year/:month/:day/:title/
+
+plugins:
+  - jekyll-feed
