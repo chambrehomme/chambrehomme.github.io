@@ -8,7 +8,7 @@ description: "Ten principles for using AI responsibly while protecting human dig
 ---
 
 Technology is changing the way we live. We use digital tools to communicate, learn, work, and make decisions. Artificial
-intelligence has expanded these possibilities even further. It can help us write, translate languages, analyze
+intelligence has expanded these possibilities even further. It can help us write, translate languages, analyse
 information, and solve problems that once took much longer.
 
 But being able to do something does not always mean we should do it.
@@ -19,7 +19,7 @@ that require human judgment, care, or responsibility?
 
 ![Beyond AI: Intro](/assets/img/beyond-ai-intro.jpeg)
 
-On October 19, 2026, five Christian church organizations in Switzerland published a joint statement titled *Humanity in
+On October 19, 2026, five Christian church organisations in Switzerland published a joint statement titled *Humanity in
 the Digital Age: Ethical Guidelines for the Responsible Use of Artificial Intelligence: An Ecumenical Christian
 Perspective*. [^1]
 
@@ -31,7 +31,7 @@ Here is what these ten principles mean in practice.
 
 ## 1. Human Dignity Matters More Than Efficiency
 
-Computers can process information at remarkable speed. They can recognize patterns, automate routine tasks, and help
+Computers can process information at remarkable speed. They can recognise patterns, automate routine tasks, and help
 people work more efficiently. But efficiency is not the same as human worth.
 
 The statement places human dignity at the center of its approach to artificial intelligence. People should not be valued
@@ -57,7 +57,7 @@ Yet the statement also draws attention to the importance of physical presence an
 someone involves more than exchanging words. It means sharing experiences, noticing how another person feels, and
 responding to them at the moment.
 
-An AI assistant may help someone organize their thoughts before a difficult conversation. It can suggest words, explain
+An AI assistant may help someone organise their thoughts before a difficult conversation. It can suggest words, explain
 a problem, or offer a way to get started. But it is not a friend or family member who shares a life with us and takes
 responsibility for the relationship.
 
@@ -156,7 +156,7 @@ Our digital lives leave behind a great deal of information. Online services may 
 habits, location, purchases, and conversations. AI systems can make use of such information in ways that are not always
 obvious to the people providing it.
 
-The statement emphasizes integrity and privacy. These principles ask us to consider not only what information is
+The statement emphasises integrity and privacy. These principles ask us to consider not only what information is
 collected, but also how it is used and whether people's trust is being respected.
 
 Personal information can help provide useful services. But collecting more than necessary, sharing data without proper
@@ -166,7 +166,7 @@ This deserves particular care when information concerns health, finances, privat
 parts of life. Before entering personal details into an AI service, consider whether the service is suitable for that
 information and what its privacy terms say.
 
-Organizations also have a responsibility to handle people's information carefully. Privacy should not depend entirely on
+Organisations also have a responsibility to handle people's information carefully. Privacy should not depend entirely on
 whether an individual remembers to check every setting.
 
 > Personal information belongs to people's lives, not simply to the systems that collect it.
@@ -197,7 +197,7 @@ services.
 ## 9. The Benefits of Technology Should Be Shared Fairly
 
 AI does not develop in a vacuum. Building and operating advanced systems requires computing power, data, money, and
-skilled workers. As a result, a relatively small number of organizations can gain considerable influence over the tools
+skilled workers. As a result, a relatively small number of organisations can gain considerable influence over the tools
 that other people and businesses depend on.
 
 The statement's principle of justice raises a wider question: who benefits from technological change, and who carries
@@ -221,7 +221,7 @@ do not remain concentrated in a few hands.
 
 ## 10. We All Have a Part in Shaping the Future
 
-Technology changes the way we work, communicate, learn, and organize society. Those changes are too important to leave
+Technology changes the way we work, communicate, learn, and organise society. Those changes are too important to leave
 entirely to the companies that build digital systems or the experts who understand their technical details.
 
 The statement calls for people to take collective responsibility for the transformation brought about by AI. That means
@@ -232,7 +232,7 @@ used in education. Communities should be able to raise concerns when new systems
 their daily lives.
 
 Participation also means accepting our own responsibilities. Developers need to consider the consequences of what they
-build. Organizations need to think carefully before deploying automated systems. Users need to check information and
+build. Organisations need to think carefully before deploying automated systems. Users need to check information and
 make considered choices about how they rely on these tools.
 
 We cannot predict every consequence of new technology. But we can decide to approach it with care, listen to people who
@@ -288,9 +288,7 @@ is useful, question where it creates risks, and take responsibility for the deci
 Ultimately, the goal is not to fit human life around technology. It is to make sure technology has a place in human life
 that is worth having.
 
-## Reference
-
 [^1] Protestant Church in Switzerland, Swiss Bishops’ Conference, Christian Catholic Church of Switzerland,
-Freikirchen.ch, and Swiss Evangelical Alliance, “Humanity in the Digital Age: Ethical Guidelines for the Responsible Use
-of Artificial Intelligence: An Ecumenical Christian Perspective,” Oct. 19, 2026. [Online].
-Available: https://menschlichkeit-digital.ch/?lang=en
+  Freikirchen.ch, and Swiss Evangelical Alliance, “Humanity in the Digital Age: Ethical Guidelines for the Responsible Use
+  of Artificial Intelligence: An Ecumenical Christian Perspective,” Oct. 19, 2026. [Online].
+  Available: https://menschlichkeit-digital.ch/?lang=en
