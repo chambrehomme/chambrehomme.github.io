@@ -288,7 +288,7 @@ is useful, question where it creates risks, and take responsibility for the deci
 Ultimately, the goal is not to fit human life around technology. It is to make sure technology has a place in human life
 that is worth having.
 
-[^1] Protestant Church in Switzerland, Swiss Bishops’ Conference, Christian Catholic Church of Switzerland,
-  Freikirchen.ch, and Swiss Evangelical Alliance, “Humanity in the Digital Age: Ethical Guidelines for the Responsible Use
-  of Artificial Intelligence: An Ecumenical Christian Perspective,” Oct. 19, 2026. [Online].
-  Available: https://menschlichkeit-digital.ch/?lang=en
+[^1]: Protestant Church in Switzerland, Swiss Bishops’ Conference, Christian Catholic Church of Switzerland,
+      Freikirchen.ch, and Swiss Evangelical Alliance, “Humanity in the Digital Age: Ethical Guidelines for the Responsible Use
+      of Artificial Intelligence: An Ecumenical Christian Perspective,” Oct. 19, 2026. [Online].
+    Available: https://menschlichkeit-digital.ch/?lang=en
